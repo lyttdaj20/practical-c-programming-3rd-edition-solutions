@@ -4,7 +4,7 @@ All exercises completed by me
 Each file is numbered by Chapter and Exercise Number (e.g. 05-02 is Exercise 2 in Chapter 5)
 
 Chapters
-    4: Basic Declarations and Expressions
+    4: Basic Declarations and Expressions\n
     5: Arrays, Qualifiers, and Reading Numbers
     6: Decision and Control Statements
     7: Programming Process
